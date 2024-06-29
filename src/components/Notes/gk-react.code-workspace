@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../google-keep"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "google-keep"
+	}
+}
